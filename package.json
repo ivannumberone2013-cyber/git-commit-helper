@@ -1,0 +1,33 @@
+{
+  "name": "git-commit-helper",
+  "version": "1.0.0",
+  "description": "Интерактивная утилита для создания правильных git-коммитов по стандарту Conventional Commits",
+  "main": "index.js",
+  "bin": {
+    "git-helper": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "conventional-commits",
+    "cli",
+    "helper",
+    "development"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/git-commit-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/git-commit-helper/issues"
+  },
+  "homepage": "https://github.com/yourusername/git-commit-helper#readme"
+}
